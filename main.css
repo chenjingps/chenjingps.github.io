@@ -139,3 +139,21 @@ ul {
         gap: 12px;
     }
 }
+
+.mini-heading {
+    margin-top: 14px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #444;
+}
+
+.rep-pubs {
+    margin: 0;
+    padding-left: 1.2em;
+}
+
+.rep-pubs li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
