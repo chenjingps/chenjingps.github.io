@@ -157,3 +157,12 @@ ul {
     line-height: 1.6;
 }
 
+.pub-links {
+    margin-top: -6px;
+    margin-bottom: 0;
+    font-size: 0.96rem;
+}
+
+.pub-links a {
+    margin-right: 10px;
+}
