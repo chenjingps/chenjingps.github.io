@@ -166,3 +166,12 @@ ul {
 .pub-links a {
     margin-right: 10px;
 }
+
+.pub-year {
+    margin-top: 26px;
+    margin-bottom: 10px;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #333;
+}
+
